@@ -5,7 +5,7 @@
 
 - 📫 Puedes contactarme por **deharojimenezjose1@gmail.com**
 
-- 📄 Sobre mi experiencia [Tengo experiencia obtenida a través de estudios autodidactas con HTML y CSS por ahora.](Tengo experiencia obtenida a través de estudios autodidactas con HTML y CSS por ahora.)
+- 📄 Sobre mi experiencia Tengo experiencia obtenida a través de estudios autodidactas con HTML y CSS por ahora.
 
 - ⚡ Fanático del **deporte y las redes sociales; además de mis entornos por ahora más utilizo han sido visual studio y intellj.**
 
