@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy José de Haro Jiménez</h1>
 <h3 align="center">Apasionado frontend developer de España</h3>
 
-- 💬 Podemos hablar por ahora de **HTML, CSS y javascript.**
+- 💬 Podemos hablar por ahora de **HTML, CSS, Python y Blazor.**
 
 - 📫 Puedes contactarme por **deharojimenezjose1@gmail.com**
 
